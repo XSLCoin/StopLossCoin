@@ -1,0 +1,1 @@
+StopLossCoin XSL source code
